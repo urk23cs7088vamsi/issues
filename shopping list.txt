@@ -1,0 +1,13 @@
+shopping list:
+
+
+apples
+banana
+grapes
+carrots
+oranges
+cherries
+cereal
+cucumbers
+eggplants
+
